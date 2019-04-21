@@ -1,0 +1,9 @@
+.DS_Store
+data/
+homework/.DS_Store
+homework/.ipynb_checkpoints/
+homework/Day_001_example_of_metrics.ipynb
+homework/Day_001_example_of_metrics_Ans.ipynb
+homework/Day_003-1_build_dataframe_from_scratch.ipynb
+homework/Day_003-2_read_and_write_files.ipynb
+homework/Day_003-3_read_and_write_files.ipynb
